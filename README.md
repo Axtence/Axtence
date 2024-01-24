@@ -5,8 +5,8 @@
 <!-- GitHub Stats -->
 <h3 align="center"></h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Axtence&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axtence&theme=dark" alt="GitHub Contributions">
+    <img src="https://github-readme-stats.vercel.app/api?username=Axtence&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Axtence&locale=en&hide_title=false&layout=compact&card_width=270&langs_count=5&theme=great-gatsby&hide_border=false" height="150" alt="languages graph"  />
 </p>
 
 <img align="right" height="200" src="https://media.giphy.com/media/3o6Yg4GUVgIUg3bf7W/giphy.gif"  />
@@ -39,6 +39,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Axtence/Axtence/output/snake.svg" alt="Snake animation" />
 
 ###
