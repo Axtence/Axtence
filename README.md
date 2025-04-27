@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi there, I'm Jaden Ang 👋 </h1>
+<h1 align="center">Hi there, I'm Jaden👋 </h1>
 <h2 align="center"> I'm a Math Enthusiast & a Student Studying Data Science with a Passion for Finance and Data Analysis</21>
 
 <!-- GitHub Stats -->
